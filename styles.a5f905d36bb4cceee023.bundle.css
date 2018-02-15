@@ -31,3 +31,7 @@
   /* position: absolute; */padding:20px 10px;top:0;background:rgba(37,37,37,.82);width:100%;color:#fff;text-align:center;padding:50px}div[parallelx2]{background-attachment:fixed!important;min-height:260px;background-size:contain!important}.animate-now{-webkit-animation-delay:1s;animation-delay:1s;-webkit-animation-duration:.5s;animation-duration:.5s;-webkit-animation-fill-mode:both;animation-fill-mode:both}
 
 /* end of parallelx scroll */
+
+/* about */.about-head h2{color:#fff!important}
+
+/* end of about page */
